@@ -1,4 +1,4 @@
-# @darron1217/react-native-background-geolocation
+# @taipham1803/react-native-background-geolocation
 
 [![npm](https://img.shields.io/npm/v/@darron1217/react-native-background-geolocation?style=flat-square)](https://www.npmjs.com/package/@darron1217/react-native-background-geolocation)
 
